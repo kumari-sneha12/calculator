@@ -1,5 +1,5 @@
 <h1><b>Simple Calculator with HTML, CSS, and JavaScript</b></h1><br>
-Welcome to the repository for the calculator Website, a project designed to create a beautiful and user-friendly calculator. Below is an overview of the project's features and functionalities.
+
 
 This project implements a basic calculator using HTML for structure, CSS for styling, and JavaScript for functionality.
 
