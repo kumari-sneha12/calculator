@@ -1,5 +1,6 @@
 <h1><b>Simple Calculator with HTML, CSS, and JavaScript</b></h1><br>
 
+![calculator using html,css,js - Google Chrome 02-Jun-24 6_37_57 PM](https://github.com/kumari-sneha12/calculator/assets/144013280/d1be7f2e-3a46-44c7-a90c-b5d8e36a58a2)
 
 This project implements a basic calculator using HTML for structure, CSS for styling, and JavaScript for functionality.
 
